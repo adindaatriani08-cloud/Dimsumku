@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  base: "/dimsumku-homemade-main/", 
+  base: "/Dimsumku/", 
 
   server: {
     host: "::",
